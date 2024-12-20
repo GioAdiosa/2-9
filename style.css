@@ -1,0 +1,211 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(fonts/Inter-VariableFont_opsz\,wght.ttf);
+}
+
+.container {
+    max-width: 1604px;
+    width: 100%;
+    background: #E8EEFF;
+    padding: 96px 96px 564px;
+    margin: auto;
+}
+
+.titleDiv {
+    max-width: 826px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -1.44px;
+}
+
+.analisticSpan {
+    color: #05F;
+}
+
+.smarterSpan {
+    color: #6941C6;
+}
+
+.titleParagraph {
+    color: #535862;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 23.30px;
+    max-width: 768px;
+    width: 100%;
+}
+
+.mainImg {
+    max-width: 1200px;
+    margin: 64px auto;
+    border-radius: 24px;
+}
+
+.dashboard {
+    border-radius: 32px;
+    border: 2px solid #D5D7DA;
+    background: #FFF;
+}
+
+.serviceDiv {
+    border-radius: 8px;
+    background: #FFF;
+    max-width: 447px;
+    width: 100%;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.servicesDiv {
+    border-radius: 8px;
+    background: #FFF;
+    max-width: 447px;
+    width: 100%;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 31px;
+}
+
+.icon {
+    width: 48px;
+    height: 48px;
+}
+
+h4 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    margin-top: 19.81px;
+}
+
+.servicesDescription {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 7.65px;
+}
+
+.footerDiv {
+    margin: auto;
+    max-width: 1216px;
+    width: 100%;
+    margin-top: 63px;
+}
+
+.final_div {
+    max-width: 736px;
+    width: 100%;
+    height: 400px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+    background: #53389E;
+    margin: auto;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 41px 0px;
+
+}
+
+.textualDiv {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 64px;
+}
+
+.girlphoto {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 480px;
+    height: auto;
+    width: 100%;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: -5px;
+}
+
+.finalSpan {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.72px;
+}
+
+.joinOver {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 19.50px;
+    margin-bottom: 47.78px;
+}
+
+.lernMoreBotton {
+    max-width: 128px;
+    width: 100%;
+    height: 48px;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    color: #414651;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.GetStartedBotton {
+    max-width: 128px;
+    width: 100%;
+    height: 48px;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #7F56D9;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
